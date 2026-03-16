@@ -29,3 +29,11 @@ Certain states such as Delhi and Maharashtra contribute significantly to total s
 The adult age group represents the largest customer base, suggesting that products appeal primarily to working-age customers.
 
 Sales show seasonal fluctuations, with higher activity during specific months.
+
+Tools used:
+Micrsoft Excel
+
+Pivot tables
+
+Pivot charts for visualization
+
