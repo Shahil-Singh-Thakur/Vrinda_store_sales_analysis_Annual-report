@@ -19,8 +19,13 @@ what channel/ordering platform contributes to the maximum sales?
 Some key insights that i was able to deduce from the analysis:
 
 Women account for approximately 64% of total orders, making them the primary customer segment.
+
 Amazon is the dominant sales channel, generating the largest share of orders.
+
 The majority of orders were successfully delivered, indicating strong operational efficiency.
+
 Certain states such as Delhi and Maharashtra contribute significantly to total sales.
+
 The adult age group represents the largest customer base, suggesting that products appeal primarily to working-age customers.
+
 Sales show seasonal fluctuations, with higher activity during specific months.
